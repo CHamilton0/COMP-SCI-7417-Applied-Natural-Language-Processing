@@ -3,5 +3,6 @@ langdetect==1.0.9
 nltk==3.9.1
 matplotlib==3.10.1
 scikit-learn==1.6.1
-tensorflow==2.19.0
+tensorflow['and-cuda']==2.19.0
 ipython==7.23.1
+ipykernel==6.29.5
