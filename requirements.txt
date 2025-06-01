@@ -6,3 +6,8 @@ scikit-learn==1.6.1
 tensorflow['and-cuda']==2.19.0
 ipython==7.23.1
 ipykernel==6.29.5
+typer==0.15.2
+transformers==4.51.3
+rouge==1.0.1
+tf-keras==2.19.0
+evaluate==0.4.3
